@@ -19,6 +19,6 @@ Defines the protocol between Lunar Client and servers supporting it
 <dependency>
   <groupId>com.github.NegativeKB</groupId>
   <artifactId>BukkitAPI-NetHandler</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
