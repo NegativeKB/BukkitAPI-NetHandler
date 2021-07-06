@@ -15,7 +15,7 @@ Defines the protocol between Lunar Client and servers supporting it
 **Dependency (type latest version in for version)**
 
 ```
-<!--BasePlugin / CodeBase -->
+<!-- Lunar NetHandler -->
 <dependency>
   <groupId>com.github.NegativeKB</groupId>
   <artifactId>BukkitAPI-NetHandler</artifactId>
